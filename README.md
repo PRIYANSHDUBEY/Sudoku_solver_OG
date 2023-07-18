@@ -24,7 +24,7 @@ This stage is the stage let you enter the desired number in the blanck spaces wh
 # Sudoku_solver_OG game Check button facility 
 ![5](https://github.com/PRIYANSHDUBEY/Sudoku_solver_OG/assets/87897527/e49cfd9e-e046-405c-88d3-26700f43a6d3)
 
-This is the stage of the game which lets you know about the wroking or the quality cheking of the .And the 
+This is the stage of the game which lets you know about the wroking or the quality cheking of the .
 
 # Sudoku_solver_OG game  Solution button facility 
 
