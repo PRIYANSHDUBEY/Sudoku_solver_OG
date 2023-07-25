@@ -1,7 +1,7 @@
-#What is Sudoku Solver Game 
+# What is Sudoku Solver Game 
 Sudoku is a logic-based, combinatorial number-placement puzzle. In classic Sudoku, the objective is to fill a 9 × 9 grid with digits so that each column, each row, and each of the nine 3 × 3 subgrids that compose the grid contain all of the digits from 1 to 9. 
 
-#Summary
+# Summary
 * This the game which we made it using the different numbers to solve the sudoku game for whome the numbers game are 
 
 * The aim of the project is to recreate the experience of solving Sudoku puzzles that people used to do in newspapers.
@@ -10,7 +10,7 @@ Sudoku is a logic-based, combinatorial number-placement puzzle. In classic Sudok
 * The reset button empties the whole grid, the exit button closes the execution, the solution button fills the grid with expected solutions, and the check moves button checks whether the previous moves are correct or not.
 
 
-#Sudoku_solver_OG 
+# Sudoku_solver_OG 
 This is our first ever screen which is defining the first page of the project where we can see that the play button is there with the exciting outer page which the button is only having the power to enter.
 As the name indicates, the project is to solve a Sudoku puzzle. It also includes some special features. 
 Sudoku is a combinatorial number-placement puzzle with a 9 x 9 cell grid partially filled in with numbers from 1 to 9. The goal is to fill the remaining, blank fields with the rest of the numbers so that each row and column will have only one number of each kind.
